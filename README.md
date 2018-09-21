@@ -9,4 +9,4 @@ Take Screenshot of your Social Media Posts
 
 ## Usage
 
-1. 
+1. python facebook.py output.txt total_post
